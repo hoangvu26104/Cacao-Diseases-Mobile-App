@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402104563362",
+    "project_id": "medicinal-leaf-scan-a101e",
+    "storage_bucket": "medicinal-leaf-scan-a101e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402104563362:android:52ce43b832560a5f1649fb",
+        "android_client_info": {
+          "package_name": "com.example.cacao_tflite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgRn5TQOsx2uot4ks8ER19C_M-_KQ6Up4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
