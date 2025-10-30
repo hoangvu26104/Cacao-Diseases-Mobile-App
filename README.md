@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ứng Dụng Phân Loại Bệnh Lá Cây Cacao
 
 Dự án này bao gồm hai phiên bản của ứng dụng phân loại bệnh lá cây cacao sử dụng Flutter, mỗi phiên bản sử dụng một framework deep learning khác nhau.
@@ -39,4 +40,3 @@ Dự án này bao gồm hai phiên bản của ứng dụng phân loại bệnh 
 2. Di chuyển vào thư mục dự án mong muốn (`cacao/` hoặc `cacao_tflite/`)
 3. Chạy `flutter pub get` để cài đặt dependencies
 4. Build và chạy ứng dụng với `flutter run`
-
