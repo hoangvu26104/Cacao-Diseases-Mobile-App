@@ -6,15 +6,15 @@ Dự án này bao gồm hai phiên bản của ứng dụng phân loại bệnh 
 
 ## Mục Lục
 1. [Tổng Quan](#tổng-quan)
-2. [Phiên Bản PyTorch Mobile](cacao/README.md)
+2. [Phiên Bản PyTorch Mobile](cacao-disease-pytorch-mobile/README.md)
    - Sử dụng PyTorch Mobile
    - Mô hình MobileViT-XS
-   - [Chi tiết và hướng dẫn](cacao/README.md#tính-năng)
-3. [Phiên Bản TensorFlow Lite](cacao_tflite/README.md)
+   - [Chi tiết và hướng dẫn](cacao-disease-pytorch-mobile/README.md#tính-năng)
+3. [Phiên Bản TensorFlow Lite](cacao-disease-tensorflow-lite/README.md)
    - Sử dụng TensorFlow Lite
    - Mô hình EfficientNetB0
    - Tích hợp Firebase
-   - [Chi tiết và hướng dẫn](cacao_tflite/README.md#tính-năng)
+   - [Chi tiết và hướng dẫn](cacao-disease-tensorflow-lite/README.md#tính-năng)
 4. [Yêu Cầu Hệ Thống](#yêu-cầu-hệ-thống)
 5. [Cài Đặt](#cài-đặt)
 
