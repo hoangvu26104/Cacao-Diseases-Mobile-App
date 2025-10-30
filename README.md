@@ -1,6 +1,8 @@
 # Ứng Dụng Phân Loại Bệnh Lá Cây Cacao
 
 Dự án này bao gồm hai phiên bản của ứng dụng phân loại bệnh lá cây cacao sử dụng Flutter, mỗi phiên bản sử dụng một framework deep learning khác nhau.
+![Ảnh minh họa](img_demo/Screenshot%202025-10-30%20144612.png)
+
 
 ## Mục Lục
 1. [Tổng Quan](#tổng-quan)
