@@ -21,8 +21,7 @@ dependencies:
     sdk: flutter
   image_picker: ^1.1.2
   image: ^4.5.4
-  # Uncomment dòng sau và chạy flutter pub get
-  # pytorch_lite: ^1.0.4
+  pytorch_lite: ^1.0.4
 ```
 
 ## Cài Đặt
